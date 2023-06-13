@@ -1,0 +1,166 @@
+{
+  "login": [
+    {
+      "email": "Hlungwanimalwandlashaun@gmail.com",
+      "password": "<PASSWORD>"
+    }
+  ],
+  "list": [
+    {
+      "id": "1",
+      "title": "Eggs"
+    },
+    {
+      "id": "2",
+      "title": "Milk"
+    },
+    {
+      "id": "3",
+      "title": "Bread"
+    },
+    [
+      [],
+      [],
+      [],
+      []
+    ],
+    [
+      {
+        "id": "1",
+        "title": "Eggs"
+      },
+      {
+        "id": "2",
+        "title": "Milk"
+      },
+      {
+        "id": "3",
+        "title": "Bread"
+      }
+    ],
+    [
+      {
+        "id": "1",
+        "title": "Eggs"
+      },
+      {
+        "id": "2",
+        "title": "Milk"
+      },
+      {
+        "id": "3",
+        "title": "Bread"
+      },
+      {
+        "id": "1686649152048",
+        "title": "mango"
+      }
+    ],
+    [],
+    [],
+    [
+      {
+        "id": "1",
+        "title": "Eggs"
+      },
+      {
+        "id": "2",
+        "title": "Milk"
+      },
+      {
+        "id": "3",
+        "title": "Bread"
+      },
+      [
+        [],
+        [],
+        [],
+        []
+      ],
+      [
+        {
+          "id": "1",
+          "title": "Eggs"
+        },
+        {
+          "id": "2",
+          "title": "Milk"
+        },
+        {
+          "id": "3",
+          "title": "Bread"
+        }
+      ],
+      [
+        {
+          "id": "1",
+          "title": "Eggs"
+        },
+        {
+          "id": "2",
+          "title": "Milk"
+        },
+        {
+          "id": "3",
+          "title": "Bread"
+        },
+        {
+          "id": "1686649152048",
+          "title": "mango"
+        }
+      ]
+    ],
+    [
+      {
+        "id": "1",
+        "title": "Eggs"
+      },
+      {
+        "id": "2",
+        "title": "Milk"
+      },
+      {
+        "id": "3",
+        "title": "Bread"
+      },
+      [
+        [],
+        [],
+        [],
+        []
+      ],
+      [
+        {
+          "id": "1",
+          "title": "Eggs"
+        },
+        {
+          "id": "2",
+          "title": "Milk"
+        },
+        {
+          "id": "3",
+          "title": "Bread"
+        }
+      ],
+      [
+        {
+          "id": "1",
+          "title": "Eggs"
+        },
+        {
+          "id": "2",
+          "title": "Milk"
+        },
+        {
+          "id": "3",
+          "title": "Bread"
+        },
+        {
+          "id": "1686649152048",
+          "title": "mango"
+        }
+      ]
+    ]
+  ]
+}
