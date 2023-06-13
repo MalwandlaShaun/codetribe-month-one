@@ -63,7 +63,7 @@ export default function SignIn() {
                     <button className="submit-btn" onClick={()=>handleSignin}> Sign In</button>
                 </div>
                 <div className="input-elements">
-                    <p className="form-text">new to Heita Todolist? singup <Link to="/signup">now</Link> </p>
+                    <p className="form-text">new to shopify Todolist? singup <Link to="/signup">now</Link> </p>
 
                 </div>
             </form>

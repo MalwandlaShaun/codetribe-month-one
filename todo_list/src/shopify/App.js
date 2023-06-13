@@ -96,7 +96,7 @@ const App = () => {
     <section className="section-center">
       {alert.show && <Alert list={list} removeAlert={removeAlert} {...alert} />}
       <form className="grocery-form" onSubmit={handleSubmit}>
-        <h3>Shopping buddy</h3>
+        <h3>Shopify list</h3>
         <div className="form-control">
           <input
             type="text"
